@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"complex": "cpp",
+			"cstdlib": "cpp",
+			"valarray": "cpp",
+			"deque": "cpp",
+			"locale": "cpp",
+			"map": "cpp",
+			"set": "cpp"
+		},
+		"launch": {
+			"configurations": [],
+			"compounds": []
+		},
+		"C_Cpp.autocomplete": "default"
+	}
+}
